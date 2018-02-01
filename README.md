@@ -18,3 +18,7 @@ Commit: Autourized routes && User signup
 - protect routes by implementing `UserRoute` and `GuestRoute` components
 - learn about gotcha with `react-router` and `react-redux`'s `connect` function and how to deal with it
 - add email uniqueness validation to `User` model on backend
+
+Commit: email confirmation
+- send email with nodemailer and use mailtrap.io to catch them
+- implement confirmation page 
